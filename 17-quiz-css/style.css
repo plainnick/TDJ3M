@@ -1,0 +1,50 @@
+﻿body
+{					margin-left: auto;
+					margin-right: auto;
+					width: 500px;
+					text-align: center;
+					font-size: 1em;
+					color: black;
+					border-radius: 25px;
+					border-style: solid;
+					border-width: 1px;
+					margin-bottom: 10px;
+					background-image: linear-gradient(orange, white);
+					text-color: red;
+}
+#zen-intro {
+	font-size: 100%;
+	color: #A41900;
+	font-family: verdana;
+	padding: 10px;
+	border-radius: 25px;
+	border-style: dashed;
+}
+
+#zen-summary {
+	font-size: 90%;
+	color: #B64800;
+}
+#zen-supporting {
+	font-size: 100%;
+	color: #B60000;
+	font-family: sans-serif;
+	border-radius: 10px;
+	border-style: solid;
+}
+footer {
+		font-size: 100%;
+	color: #B6006C;
+	font-family: verdana;
+	border-radius: 5px;
+	border-style: dashed;
+	margin-bottom: 10px;
+}
+aside {
+			font-size: 100%;
+	color: #B6006C;
+	font-family: monospace;
+	border-radius: 10px;
+	border-style: double;
+	margin-bottom: 10px;
+}
